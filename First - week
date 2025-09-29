@@ -1,0 +1,4 @@
+//Aha, In the first week, I wrote the LMP algorithm (for computing iterative boundaries) in Verilog and successfully implemented its functionality.
+//However, there are still many areas in the code that need improvement. For example, the storage of the matrix could be changed from registers to RAM or ROM, and the code itself is quite bloated...
+//But honestly, I don’t think it’s really worth refining this code. Maybe after some time, I’ll look back and feel like what I wrote was a complete mess.
+
